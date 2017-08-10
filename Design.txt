@@ -1,0 +1,17 @@
+Serão 7 componentes:
+
+1º Index com o nome de cada um dos membros respectivamente Daniel, Gustavo, Ivo, João Carlos, Jhonatan, Luka
+
+2º Conteiner chamado de Daniel aonde terá seu nome e as suas 5 séries preferidas
+
+3º Conteiner chamado de Gustavo aonde terá seu nome e as suas 5 séries preferidas
+
+4º Conteiner chamado de Ivo aonde terá seu nome e as suas 5 séries preferidas
+
+5º Conteiner chamado de João Carlos aonde terá seu nome e as suas 5 séries preferidas
+
+6º Conteiner chamado de Jhonatan aonde terá seu nome e as suas 5 séries preferidas
+
+7º Conteiner chamado de Luka aonde terá seu nome e as suas 5 séries preferidas
+
+Assim que o usuário clicar em no nome de algum dos integrantes sera redirecionado para o scroll em que se localoza as séries preferidas do mesmo
