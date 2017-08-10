@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gurpo Draco</title>
+</head>
+<body>
+<nav>
+<a href="daniel">Daniel</a>
+<a href="gustavo">Gustavo</a>
+<a href="ivo">Ivo</a>
+<a href="joaoCarlos">João Carlos</a>
+<a href="jhonatan">Jhonatan</a>
+<a href="luka">Luka</a>
+</nav>
+<section id="daniel">
+<h1>Daniel</h1>
+<p>Chuck bartowski</p>
+<p>The Walking dead</p>
+<p>Hora de aventura</p>
+<p>Death note</p>
+<p>Vampire Diares</p>
+</section>
+<section id="gustavo">
+<h1>Gustavo</h1>
+<p>Code Gueass</p>
+<p>FullMetal Alchemist</p>
+<p>One Piece</p>
+<p>Tsuki ga kirei</p>
+<p>Todo mundo odeia o cris</p>
+</section>
+<section id="ivo">
+<h1>Ivo</h1>
+<p>Eu a patroa e as crianças</p>
+<p>Game of Thones</p>
+<p>Um maluco no pedaço</p>
+<p>House of cards</p>
+<p>American Gods</p>
+</section>
+<section id="joaoCarlos">
+<h1>João Carlos</h1>
+<p>Breaking Bad</p>
+<p>Two and a half man</p>
+<p>Shingeki no kyojin</p>
+<p>Boku no hero academia</p>
+<p>Mirai nikki</p>
+</section>
+<section id="jhonatan">
+<h1>Jhonatan</h1>
+<p>Stranger things</p>
+<p>Jiraya</p>
+<p>Bleach</p>
+<p>Dragon ball</p>
+<p>Black Cat</p>
+</section>
+<section id="luka">
+<h1>Luka</h1>
+<p>One Punch man</p>
+<p>Black Mirror</p>
+<p>Elfen Lied</p>
+<p>How i met your mother</p>
+<p>Gantz</p>
+</section>
+</body>
+</html>
