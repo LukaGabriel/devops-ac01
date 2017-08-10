@@ -1,0 +1,43 @@
+			Solicitação Site Series
+
+
+1º Analisar 5 series preferida de cada membro para colocar em um site.
+
+2º O site deve conter Pagina unica com todas as informações de cada membro
+a pagina sera chamada de index.html
+
+3º Particularidade da pagina. 
+A pagina devera conter uma index com o nome de cada membro do grupo.
+quando clicar no nome do membro ira trazer a informação contida.
+
+OBS: como se fosse um menu com o nome de cada membro.
+
+
+/****************************************************/
+
+
+Serão 7 componentes:
+
+1º Index com o nome de cada um dos membros respectivamente Daniel, Gustavo, Ivo, João Carlos, Jhonatan, Luka //OK
+
+2º Conteiner chamado de Daniel aonde terá seu nome e as suas 5 séries preferidas //OK
+
+3º Conteiner chamado de Gustavo aonde terá seu nome e as suas 5 séries preferidas //OK
+
+4º Conteiner chamado de Ivo aonde terá seu nome e as suas 5 séries preferidas //OK
+
+5º Conteiner chamado de João Carlos aonde terá seu nome e as suas 5 séries preferidas //OK
+
+6º Conteiner chamado de Jhonatan aonde terá seu nome e as suas 5 séries preferidas //OK
+
+7º Conteiner chamado de Luka aonde terá seu nome e as suas 5 séries preferidas //OK
+
+Assim que o usuário clicar em no nome de algum dos integrantes sera redirecionado para o scroll em que se localoza as séries preferidas do mesmo //OK
+
+
+
+/****************************************************/
+
+1
+
+
