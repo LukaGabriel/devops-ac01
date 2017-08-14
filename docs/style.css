@@ -1,15 +1,35 @@
-.cabecalho{
-width:auto
-height:60px
-background-color:#66ff66
+﻿.cabecalho{
+width: auto;
+height: 60px;
+background-color: #1aa3ff;
+position:relative;
+}
+
+.linkBox{
+float: left;
+margin-left: 20px;
+width:105px;
+height:auto;
+padding: 5px;
+text-align:center;
+}
+
+.btnLink{
+font-family: "Arial";
+color: white;
+font-weight: bold;
+text-decoration: none;
 }
 
 #navBar{
-
+position: absolute;
+top: 20px;
+left: 20px;
 }
 
 #frame{
-height:auto
-padding:10px
+height: auto;
+padding: 10px;
+font-family: "Arial";
 }
 
