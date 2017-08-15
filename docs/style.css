@@ -1,35 +1,45 @@
-﻿.cabecalho{
-width: auto;
-height: 60px;
-background-color: #1aa3ff;
-position:relative;
-}
-
-.linkBox{
+﻿.linkBox{
 float: left;
+margin-top:15px;
 margin-left: 20px;
 width:105px;
 height:auto;
 padding: 5px;
 text-align:center;
-}
-
-.btnLink{
-font-family: "Arial";
 color: white;
 font-weight: bold;
 text-decoration: none;
+font-family:"Arial";
+transition: 0.5s;
 }
 
-#navBar{
-position: absolute;
-top: 20px;
-left: 20px;
+.linkBox:hover{
+background-color:#ccebff;
+color:#1aa3ff;
 }
 
-#frame{
+
+.navBar{
+width: 100%;
+height: 60px;
+background-color: #1aa3ff;
+position:fixed;
+top:0;
+overflow:hidden;
+margin-bottom: 30px;
+}
+
+.frame{
 height: auto;
-padding: 10px;
+padding-left: 10px;
 font-family: "Arial";
+margin-top:65px;
 }
 
+.body{
+margin:0;
+}
+
+.txtBox{
+margin-top:40px;
+}
