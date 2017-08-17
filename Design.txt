@@ -1,17 +1,23 @@
-Serão 7 componentes:
+SerÃ£o 8 componentes:
 
-1º Index com o nome de cada um dos membros respectivamente Daniel, Gustavo, Ivo, João Carlos, Jhonatan, Luka
+1Âº Index com o nome de cada um dos membros respectivamente Daniel, Gustavo, Ivo, JoÃ£o Carlos, Jhonatan, Lucas, Luka
 
-2º Conteiner chamado de Daniel aonde terá seu nome e as suas 5 séries preferidas
+2Âº Conteiner chamado Daniel onde terÃ¡ seu nome e as suas 7 sÃ©ries preferidas
 
-3º Conteiner chamado de Gustavo aonde terá seu nome e as suas 5 séries preferidas
+3Âº Conteiner chamado Gustavo onde terÃ¡ seu nome e as suas 7 sÃ©ries preferidas
 
-4º Conteiner chamado de Ivo aonde terá seu nome e as suas 5 séries preferidas
+4Âº Conteiner chamado Ivo onde terÃ¡ seu nome e as suas 7 sÃ©ries preferidas
 
-5º Conteiner chamado de João Carlos aonde terá seu nome e as suas 5 séries preferidas
+5Âº Conteiner chamado JoÃ£o Carlos onde terÃ¡ seu nome e as suas 7 sÃ©ries preferidas
 
-6º Conteiner chamado de Jhonatan aonde terá seu nome e as suas 5 séries preferidas
+6Âº Conteiner chamado Jhonatan onde terÃ¡ seu nome e as suas 7 sÃ©ries preferidas
 
-7º Conteiner chamado de Luka aonde terá seu nome e as suas 5 séries preferidas
+7Âº Conteiner chamado Lucas onde terÃ¡ seu nome e as suas 7 sÃ©ries preferidas
 
-Assim que o usuário clicar em no nome de algum dos integrantes sera redirecionado para o scroll em que se localoza as séries preferidas do mesmo
+8Âº Conteiner chamado Luka onde terÃ¡ seu nome e as suas 7 sÃ©ries preferidas
+
+Assim que o usuÃ¡rio clicar em no nome de algum dos integrantes sera redirecionado para o scroll em que se localoza as sÃ©ries preferidas do mesmo
+
+AtualizaÃ§Ãµes:
+* Um novo integrante do grupo e 7 sÃ©ries preferidas
+* AdiÃ§Ã£o de 2 novas sÃ©ries preferidas aos integrante atuais
