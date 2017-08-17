@@ -21,3 +21,66 @@ Assim que o usuário clicar em no nome de algum dos integrantes sera redireciona
 Atualizações:
 * Um novo integrante do grupo e 7 séries preferidas
 * Adição de 2 novas séries preferidas aos integrante atuais
+
+Daniel:
+Chuck o espião
+The Walking dead
+Hora de aventura
+Death note
+O incrivel mundo de Gumball
+Eu a patroa e as crianças
+Vampire Diares
+
+Gustavo:
+Code gueass
+FullMetal Alchemist
+One Piece
+Tsuki ga kirei
+Todo mundo odeia o cris
+House
+Haikyuu
+
+Ivo:
+Eu a patroa e as crianças
+Game of Thones
+Um maluco no pedaço
+House of cards
+American Gods
+Chaves
+Pica-Pau
+
+Jhonatan:
+Stranger things
+Jiraya
+Bleach
+Dragon ball
+Black Cat
+Game of thrones
+Sonic boom
+
+João Carlos:
+Breaking Bed
+Two and a half man
+Shingeki no kyojin
+Boku no hero academia
+Mirai nikki
+How i met your mother
+Star Trek
+
+Lucas:
+Um maluco no pedaço
+Kenan e kel
+Chaves
+House of cards
+Narco
+Black mirror
+Shingeki no kyojin
+
+Luka:
+One Punch man
+Black Mirror
+Elfen Lied
+How i met your mother
+Berserk
+Hannibal
+Gantz
