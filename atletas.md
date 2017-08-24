@@ -1,3 +1,3 @@
 #Melhores atletas:
-<nome>
+Lee "Faker" Sang-hyeok
 ---
