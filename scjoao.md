@@ -1,0 +1,2 @@
+- Area de atuação: Desenvolvimento de Software
+- Empresa: Google
